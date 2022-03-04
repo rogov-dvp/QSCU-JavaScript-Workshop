@@ -1,3 +1,3 @@
 # QSCU-JavaScript-Workshop
 
-This is the code for a todo app that was used for the JavaScript Workshop 2022 
+Welcome! Here lies the code for a todo app that was used for the QSCU JavaScript Workshop 2022 
